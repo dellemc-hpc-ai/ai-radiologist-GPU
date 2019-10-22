@@ -1,9 +1,9 @@
 # AI Radiologist GPU
 
+GPU version of fast training of a radiologist using Multiple GPUs on a large scale setting using multinodes.
 ![A chest x-ray identifies a lung mass.](lung-mass.jpg)
 [Source: NIH](https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community) : A chest x-ray identifies a lung mass.
 
-GPU version of fast training of a radiologist using Multiple GPUs on a large scale setting using multinodes.
 
 
 
