@@ -67,7 +67,9 @@ This will convert your raw images to TF Records which improves the training spee
 
 ### Run the Job 
 
-* Ensure that you first edit the conda env name to your env name in your submission script. 
+Please Ensure that: 
+*  First edit the conda env name to your env name in your submission script. 
+*  Change the paths from the submission script to your MPI, CUDA, etc build locations.
 
 If you're using slurm as scheduler, submit the corresponding 
 script based on the data you want to run. You can change numbers for ``N`` and ``n`` inside the scripts.  
