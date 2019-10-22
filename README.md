@@ -26,7 +26,7 @@ Please refer to this [article](https://www.dell.com/support/article/us/en/04/sln
 
 ### Clone this Repo 
 ```
-https://github.com/dellemc-hpc-ai/ai-radiologist-GPU.git`
+https://github.com/dellemc-hpc-ai/ai-radiologist-GPU.git
 ```
 
 ```
@@ -76,14 +76,6 @@ script based on the data you want to run. You can change numbers for ``N`` and `
 sbatch job_submissions/slurm/{raw_1gpu.sh/tfrec_1gpu.sh} 
 ```
 
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Related Articles/Blogs
 
