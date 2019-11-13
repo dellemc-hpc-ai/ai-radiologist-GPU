@@ -18,11 +18,6 @@ https://nihcc.box.com/shared/static/hhq8fkdgvcari67vfhs7ppg2w6ni4jze.gz
 https://nihcc.box.com/shared/static/ioqwiy20ihqwyr8pf4c24eazhh281pbu.gz )
 
 
-#declare -a links=( "https://stackoverflow.com/questions/18460122/how-to-add-leading-zeros-for-for-loop-in-shell/18460169"
-#"https://www.webhostface.com/kb/knowledgebase/examples-using-wget/"
-#"https://github.com/NVIDIA/apex"
-#"https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community" )
-
 counter=0
 for i in "${links[@]}"
 do 
