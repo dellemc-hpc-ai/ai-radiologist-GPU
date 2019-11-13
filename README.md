@@ -137,7 +137,7 @@ sbatch job_submissions/slurm/{raw_1gpu.sh/tfrec_1gpu.sh}
 * [Training an AI Radiologist using Distributed Deep Learning with Nvidia GPUs](https://www.dell.com/support/article/us/en/04/sln318901/training-an-ai-radiologist-using-distributed-deep-learning-with-nvidia-gpus?lang=en)
 * [Scaling Performance and Training CheXNet using Bare Metal vs Kubernetes](https://www.dell.com/support/article/us/en/04/sln318899/bare-metal-vs-kubernetes-distributed-training-with-tensorflow?lang=en)
 * [Optimization Techniques for Training CheXNet on Dell C4140 with Nvidia V100 GPUs](https://www.dell.com/support/article/us/en/04/sln318898/optimization-techniques-for-training-chexnet-on-dell-c4140-with-nvidia-v100-gpus?lang=en)
-
+* [Tips and Tricks to Optimize workflow with TF and Horovod on GPUs](https://www.dell.com/support/article/us/en/19/sln318900/tips-and-tricks-to-optimize-workflow-with-tf-and-horovod-on-gpus?lang=en)
 ## Acknowledgments
 
 * [NIH Dataset](https://nihcc.app.box.com/v/ChestXray-NIHCC)
